@@ -1,6 +1,5 @@
 <h2> Hi, I'm MiHwa Yang! <br>
-Nice to meet you ✨ </h2>
-<br>
+Nice to meet you ✨ <br></h2>
 
 <h3> #Back-end #Python #Django #AWS #Docker </h3>
   
