@@ -1,7 +1,7 @@
 <h2> Hi, I'm MiHwa Yang! <br>
-Nice to meet you ✨ <br></h2>
+Nice to meet you ✨ </h2>
 
-<h3> #Back-end #Python #Django #AWS #Docker </h3>
+<span> #Back-end #Python #Django #AWS #Docker </span>
   
 - 👋 Hi, I’m @hwaya2828
 - 👀 I’m interested in ...
